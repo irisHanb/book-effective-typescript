@@ -35,4 +35,9 @@ Book study note
 - [X] [item_13> 타입과 인터페이스의 차이점 알기](/02/item_13.md)
 - [X] [item_14> 타입 연산과 제너릭 사용으로 반복 줄이기](/02/item_14.md)
 
+`2023-05-24 (수)`
+- [X] [item_15> 동적 데이터에 인덱스 시그니처 사용하기](/02/item_15.md)
+- [X] [item_16> number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기](/02/item_16.md)
+- [X] [item_17> 변경 관련된 오류 방지를 위해 readonly 사용하기](/02/item_17.md)
+- [X] [item_18> 매핑된 타입을 사용하여 값을 동기화하기](/02/item_18.md)
 
